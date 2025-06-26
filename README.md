@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryx69" alt="ryx69" /></a> </p>
 
-- 🔭 I’m currently working on [Leagie](https://discord.gg/6EGYVFdsKM)
+- 🔭 I’m currently working on [Leagie](https://discord.gg/6EGYVFdsKM) And [Fusion Scripts](https://discord.gg/J6WEX7TkM8)
 
 - 🌱 I’m currently learning **LUA, VUE, TYPESCRIPT, REACT.**
 
